@@ -1,4 +1,4 @@
-Created and Updated December 2025
+Updated December 2025
 
 ![Platform](https://img.shields.io/badge/platform-Android-brightgreen)
 ![Language](https://img.shields.io/badge/language-Kotlin-blueviolet)
